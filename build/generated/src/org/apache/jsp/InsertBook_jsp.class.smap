@@ -1,0 +1,16 @@
+SMAP
+InsertBook_jsp.java
+JSP
+*S JSP
+*F
++ 0 InsertBook.jsp
+InsertBook.jsp
++ 1 header.jsp
+header.jsp
+*L
+1,4:52
+1#1,131:55
+4#0,147:185
+151:332,3
+152,25:335
+*E

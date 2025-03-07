@@ -1,0 +1,20 @@
+SMAP
+DeleteBook_jsp.java
+JSP
+*S JSP
+*F
++ 0 DeleteBook.jsp
+DeleteBook.jsp
++ 1 header.jsp
+header.jsp
+*L
+1,4:51
+1#1,95:54
+4#0,30:148
+34,12:179
+45,6:191
+51,5:197,3
+56,5:212
+61,6:218
+66,7:224
+*E
